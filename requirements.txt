@@ -1,0 +1,3 @@
+tzlocal==2.1
+Telethon==1.13.0
+pytz==2018.5

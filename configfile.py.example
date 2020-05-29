@@ -1,0 +1,9 @@
+# Edit this file appropriately and rename to configfile.py
+
+phone = # your phone, as string, like '+9999999'
+username = # your user name, as string
+
+# See https://core.telegram.org/api/obtaining_api_id
+api_id = # integer value
+api_hash = # string 
+
