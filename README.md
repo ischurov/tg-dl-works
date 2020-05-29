@@ -15,6 +15,7 @@ selected users/channels.
 2. Create text file with accounts you want to process (e.g. `accounts.txt`), one
 account on line.
 3. Run `python getmessages.py accounts.txt --todir <output directory>`
+
 That's all!
 
 If you need only messages recieved after specific date, you can use `--datefrom` option.
