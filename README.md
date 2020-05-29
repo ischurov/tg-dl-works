@@ -10,7 +10,7 @@ It logs in under your account and downloads all images that you recieved from
 selected users/channels.
 
 ## Usage
-1. Edit file `configfile-example.py` appropriately, then rename it to
+1. Edit file `configfile.py.example` appropriately, then rename it to
 `configfile.py`
 2. Create text file with accounts you want to process (e.g. `accounts.txt`), one
 account on line.
